@@ -102,5 +102,20 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
-  }
+  },
+  {
+  "name": "BTCBR-Token",
+  "symbol": "BTCBR",
+  "address": "0xfa7b521420d560213a4390d74a3135ad705f3dbb",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://github.com/Nenzy10/BTCBR-Token/blob/main/logo.png?raw=true",
+  "website": "https://github.com/Nenzy10/BTCBR-Token",
+  "socials": {
+    "telegram": "https://t.me/nenzybrown10",
+      }
+}
+ 
+
+
 ]
